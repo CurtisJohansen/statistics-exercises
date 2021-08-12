@@ -1,0 +1,13 @@
+env.py
+
+iris.csv
+
+titanic.csv
+
+.ipynb_checkpoints/
+ 
+__pycache__
+
+.DS_Store
+
+.cvs
