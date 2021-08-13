@@ -1,13 +1,11 @@
 env.py
 
-iris.csv
+*.xlsx
 
-titanic.csv
+*.csv
 
 .ipynb_checkpoints/
  
 __pycache__
 
 .DS_Store
-
-Cust_Churn_Telco.csv
